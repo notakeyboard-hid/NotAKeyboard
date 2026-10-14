@@ -1,3 +1,5 @@
+![nak](https://prankapple.is-a.dev/resc/nak_logo.png)
+
 # NotAKeyboard
 Another USB HID device. The name is inspired by NaK, the extremely dangerous Na and K alloy.
 ## This project is intended for educational and learning purposes only. It is not designed, tested, or intended for use in production, commercial, or real-world environments. The authors assume no responsibility for any misuse of this material.

@@ -16,7 +16,7 @@ Another USB HID device. The name is inspired by NaK, the extremely dangerous Na 
 - Download this repository and extract it, open the **format_pico** folder from the files provided. Copy the **flash_nuke.uf2** file to the Raspberry Pi Pico. Wait until it restarts. This process clears the existing firmware.
 - Open the **software** folder. Copy the **adafruit-circuitpython-raspberry_pi_pico-en_US-9.1.1.uf2** file to your Raspberry Pi Pico. Wait until it restarts. After restarting, the Pico should appear as a drive named CIRCUITPY.
 - Copy the **lib** folder on the CIRCUITPY drive, click replace if it asks.
-- Copy the **payload.py**, **code.py** and **boot.py**, click replace if it asks. Congratulations! Your NaK is set up and ready to go. (WARNING: MAKE SURE THAT THE SWITCH IS NOT ON)
+- Copy the **payload.py**, **code.py** and **boot.py**, click replace if it asks. Congratulations! Your NaK is set up and ready to go. **(WARNING: MAKE SURE THAT THE SWITCH IS NOT ON)**.
 
 ## Payloads
 Head to [NaK DuckyScript converter](https://notakeyboard-hid.github.io/converter.html) and paste your script click convert(keep in mind that very much DuckyScript does not work.) then download and plug in the pico with the switch off.

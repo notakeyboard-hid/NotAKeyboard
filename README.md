@@ -19,10 +19,10 @@ Copy the **payload.py** you downloaded to the root of your pico and click replac
 
 ## Usage
 Eject and unplug the pico from your device. Turn the switch on.
-#### Warning: As long as the pico has the switch on it will be armed. That means if you plug it in white armed it will run the payload with very fast speeds. YOU HAVE BEEN WARNED. I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED TO DEVICES.
+#### Warning: As long as the pico has the switch on it will be armed. That means if you plug it in while armed it will run the payload with very fast speeds. YOU HAVE BEEN WARNED. I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED TO DEVICES.
 
 ## Editing the payload
-Take your pico and turn the switch off plug it in and edit
+Take your pico and turn the switch off, plug it in and edit
 
 ### Have fun.
 

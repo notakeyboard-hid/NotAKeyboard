@@ -26,4 +26,4 @@ Take your pico and turn the switch off plug it in and edit
 
 ### Have fun.
 
-[NotAKeyboard site](https://simplehost.onrender.com/notakeyboard/)
+[NotAKeyboard site](https://notakeyboard-hid.github.io/)
